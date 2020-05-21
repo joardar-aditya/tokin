@@ -2,6 +2,10 @@
 
 An Image and Video Editing App using Flutter
 
+##Important 
+
+Make all contributions on the dev branch
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
