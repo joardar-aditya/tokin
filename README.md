@@ -2,7 +2,7 @@
 
 An Image and Video Editing App using Flutter
 
-##Important 
+## Important 
 
 Make all contributions on the dev branch
 
