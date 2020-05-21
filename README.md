@@ -1,6 +1,6 @@
 # tokin
 
-TikTokClone
+An Image and Video Editing App using Flutter
 
 ## Getting Started
 
